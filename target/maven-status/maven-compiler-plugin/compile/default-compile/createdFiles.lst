@@ -1,0 +1,5 @@
+batch\BatchWordCountJava.class
+stream\SocketWindowWordCountJava.class
+batch\BatchWordCountJava$Tokenizer.class
+stream\SocketWindowWordCountJava$1.class
+stream\SocketWindowWordCountJava$WordWithCount.class

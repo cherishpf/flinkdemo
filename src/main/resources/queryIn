@@ -1,0 +1,1 @@
+select name,sum(amount) from inputStream group by name
